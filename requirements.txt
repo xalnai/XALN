@@ -1,0 +1,2 @@
+# requirements
+Placeholder content for requirements.txt
