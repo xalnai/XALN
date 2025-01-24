@@ -1,2 +1,4 @@
-# requirements
-Placeholder content for requirements.txt
+solana
+pandas
+numpy
+matplotlib
